@@ -1,4 +1,4 @@
-# Kodstart Boorcamp Müfredatı
+# Kodstart Bootcamp Müfredatı
 
 Buraya genel aciklama
 
