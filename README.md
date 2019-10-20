@@ -1,8 +1,9 @@
 # curriculum
 Curriculum
 
-Python ile prog giriş I
+Python ile prog giriş I - 1 hafta
 -------------------------
+Kurulumlar
 VERİLER  
 PYTHON YAZIM HATALARI REHBERİ  
 ARİTMETİK İŞLEM OPERATÖRLERİ  
@@ -11,7 +12,7 @@ KULLANICIDAN GİRDİ ALMA VE VERİ TİPLERİ ARASINDA DÖNÜŞÜM
 KURS BİTİRME TESTLERİ  
 SATIŞ KARI CLONE 
 
-Python ile prog giriş II 
+Python ile prog giriş II - 1 hafta
 -------------------------
 BOOLEAN DEĞER TİPİ VE KARŞILAŞTIRMA OPERATÖRLERİ  
 KOŞULLU ÇALIŞMA 
@@ -21,8 +22,10 @@ DÖNGÜLER
 KURS BİTİRME TESTLERİ  
 KURS BİTİRME KOD GÖREVLERİ 
 
+Egzersizler - 1 hafta
+----------------------
 
-Python ile prog giriş III
+Python ile prog giriş III - 1 hafta
 -------------------------
 SAYILAR ÜZERİNDEKİ DİĞER İŞLEMLER 
 FONKSİYONLAR  
@@ -36,3 +39,9 @@ FONKSİYON NEDİR? YDK
 FONKSİYON PARAMETRELERİ YDK  
 DERS AÇIKLAMA  
 ÜS ALMA OPERATÖRÜ  
+
+Egersizler - 1 hafta
+--------------------
+
+Kaldırılacaklar
+Python Seviye Tespit - I
