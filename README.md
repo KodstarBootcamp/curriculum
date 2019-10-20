@@ -1,5 +1,27 @@
-# curriculum
-Curriculum
+# Kodstart Boorcamp Müfredatı
+
+Buraya genel aciklama
+
+##  Python ile programlamaya giriş
+
+Buraya Python egitimi aciklamasi
+
+| Hafta     | Kodstar Modulu                     | Konular                     | Sunum
+| --------- |:----------------------------------:| :---------------------------:|:---------------------------:|
+| 1. Hafta | Python ile Programlamaya Giriş - I | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | TODO |
+| 2. Hafta | Python ile Programlamaya Giriş - II | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | TODO |
+| 3. Hafta | Python ile Programlamaya Giriş - II Bölüm Sonu | Bölüm II egzersizleri | TODO |
+| 4. Hafta | Python ile Programlamaya Giriş - III | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) |TODO   |
+| 5. Hafta | Python ile Programlamaya Giriş - III | Bölüm III egzersizleri | TODO   |
+
+##  Java ile programlama
+
+Buraya Java egitimi aciklamasi
+
+| Hafta     | Konular                     | Sunum
+| --------- |:---------------------------:|:-----------------------:|
+| 1. Hafta | TODO  | TODO |
+
 
 Python ile prog giriş I - 1 hafta
 -------------------------
@@ -42,6 +64,3 @@ DERS AÇIKLAMA
 
 Egersizler - 1 hafta
 --------------------
-
-Kaldırılacaklar
-Python Seviye Tespit - I
