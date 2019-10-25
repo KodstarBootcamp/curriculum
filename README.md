@@ -4,7 +4,7 @@ Buraya genel aciklama
 
 ##  Python ile programlamaya giriş
 
-Buraya Python egitimi aciklamasi
+Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözerek, Python'daki yapı taşlarına hakim olunması ve algoritmik düşünme kabiliyetinin yerleşmesi hedeflenmektedir. 
 
 | Hafta     | Kodstar Modulu                     | Konular                     | Sunum
 | --------- |:----------------------------------:| :---------------------------:|:---------------------------:|
@@ -16,51 +16,12 @@ Buraya Python egitimi aciklamasi
 
 ##  Java ile programlama
 
-Buraya Java egitimi aciklamasi
+Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanılan Java programlama dili ile daha üst seviyeye çıkarmanız hedeflenmektedir.
 
-| Hafta     | Konular                     | Sunum
-| --------- |:---------------------------:|:-----------------------:|
-| 1. Hafta | TODO  | TODO |
-
-
-Python ile prog giriş I - 1 hafta
--------------------------
-Kurulumlar
-VERİLER  
-PYTHON YAZIM HATALARI REHBERİ  
-ARİTMETİK İŞLEM OPERATÖRLERİ  
-DEĞİŞKEN  
-KULLANICIDAN GİRDİ ALMA VE VERİ TİPLERİ ARASINDA DÖNÜŞÜM 
-KURS BİTİRME TESTLERİ  
-SATIŞ KARI CLONE 
-
-Python ile prog giriş II - 1 hafta
--------------------------
-BOOLEAN DEĞER TİPİ VE KARŞILAŞTIRMA OPERATÖRLERİ  
-KOŞULLU ÇALIŞMA 
-MANTIKSAL(LOGİCAL) OPERATÖRLER VE KOŞULLARIN BİRLEŞTİRİLMESİ  
-DAHA KARMAŞIK KOŞULLU İFADELER  
-DÖNGÜLER 
-KURS BİTİRME TESTLERİ  
-KURS BİTİRME KOD GÖREVLERİ 
-
-Egzersizler - 1 hafta
-----------------------
-
-Python ile prog giriş III - 1 hafta
--------------------------
-SAYILAR ÜZERİNDEKİ DİĞER İŞLEMLER 
-FONKSİYONLAR  
-DÖNGÜLER- FOR DÖNGÜSÜ  
-LİSTELERE GİRİŞ  
-LİSTE İÇİNDE LİSTE  
-STRİNGLER (KARAKTER DİZİLERİ) 
-KURS BİTİRME GÖREVLERİ  
-QUİZ  
-FONKSİYON NEDİR? YDK  
-FONKSİYON PARAMETRELERİ YDK  
-DERS AÇIKLAMA  
-ÜS ALMA OPERATÖRÜ  
-
-Egersizler - 1 hafta
---------------------
+| Hafta     | Konular                     | Sunum                   | Kaynaklar     | Alıştırmalar | Ödev 
+| --------- |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|
+| 1. Hafta | Java programlama diline giriş  | TODO | TODO | TODO | TODO |
+| 2. Hafta | Nesne tabanlı programlama - I  | TODO | TODO | TODO | TODO |
+| 3. Hafta | Nesne tabanlı programlama - II  | TODO | TODO | TODO | TODO |
+| 4. Hafta | Hata ele alma, Generics, Lambda  | TODO | TODO | TODO | TODO |
+| 5. Hafta | Java ekosistemi ve ileri konular | TODO | TODO | TODO | TODO |
