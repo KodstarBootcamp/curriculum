@@ -10,11 +10,11 @@ Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözere
 
 | Hafta     | Kodstar Modulu                     | Konular                | Sunum                 | Kaynaklar
 | --------- |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|
-| 1. Hafta | Python ile Programlamaya Giriş - I | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | Hazırlanıyor | [Kaynak](python/week1/resources.md)
-| 2. Hafta | Python ile Programlamaya Giriş - II | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | Hazırlanıyor | Hazırlanıyor |
-| 3. Hafta | Python ile Programlamaya Giriş - II Bölüm Sonu | Bölüm II egzersizleri | Hazırlanıyor | Hazırlanıyor |
-| 4. Hafta | Python ile Programlamaya Giriş - III | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor | Hazırlanıyor |
-| 5. Hafta | Python ile Programlamaya Giriş - III | Bölüm III egzersizleri | Hazırlanıyor | Hazırlanıyor |
+| 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | Hazırlanıyor | [Kaynak](python/week1/resources.md)
+| 2. Hafta | [Python ile Programlamaya Giriş - II](http://www.kodstar.com/task/editor?courseId=5641&trackId=5366) | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | Hazırlanıyor | Hazırlanıyor |
+| 3. Hafta | [Python ile Programlamaya Giriş - II Bölüm Sonu](http://www.kodstar.com/task/editor?courseId=9507&trackId=5366) | Bölüm II egzersizleri | Hazırlanıyor | Hazırlanıyor |
+| 4. Hafta | [Python ile Programlamaya Giriş - III](http://www.kodstar.com/task/editor?courseId=2421&trackId=5366) | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor | Hazırlanıyor |
+| 5. Hafta | Python ile Programlamaya Giriş - III Bölüm Sonu | Bölüm III egzersizleri | Hazırlanıyor | Hazırlanıyor |
 
 ##  Java ile programlama
 
