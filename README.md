@@ -10,7 +10,7 @@ Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözere
 
 | Hafta     | Kodstar Modulu                     | Konular                | Sunum                 | Kaynaklar
 | --------- |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|
-| 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | Hazırlanıyor | [Kaynak](python/week1/resources.md)
+| 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | [Sunum](https://drive.google.com/file/d/1N0sW0GefwK-m40Q0f7QLvyAJ5smBYnvl/view?usp=sharing) | [Kaynak](python/week1/resources.md)
 | 2. Hafta | [Python ile Programlamaya Giriş - II](http://www.kodstar.com/task/editor?courseId=5641&trackId=5366) | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | Hazırlanıyor | Hazırlanıyor |
 | 3. Hafta | [Python ile Programlamaya Giriş - II Bölüm Sonu](http://www.kodstar.com/task/editor?courseId=9507&trackId=5366) | Bölüm II egzersizleri | Hazırlanıyor | Hazırlanıyor |
 | 4. Hafta | [Python ile Programlamaya Giriş - III](http://www.kodstar.com/task/editor?courseId=2421&trackId=5366) | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor | Hazırlanıyor |
