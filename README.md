@@ -8,12 +8,12 @@ Eğitim materyalleri üretildikçe ve geri beslemeler alındıkça bu döküman 
 
 Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözerek, Python'daki yapı taşlarına hakim olunması ve algoritmik düşünme kabiliyetinin yerleşmesi hedeflenmektedir. 
 
-| Hafta     | Kodstar Modulu                     | Konular                | Sunum                 | Kaynaklar
-| --------- |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|
-| 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | [Sunum-1](https://drive.google.com/open?id=1jb4BVG3cO_Z3lBzk0fxm86K_uGhlwv87) [Sunum-2](https://drive.google.com/open?id=1_9tUDajFjAxvmDC1ARgHmXkW7BQBeojr)| [Kaynak](python/week1/resources.md)
+| Hafta     | Kodstar Modulu                     | Konular                | Sunum                 | Kaynaklar             | Video
+| --------- |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|:----------:
+| 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | [Sunum-1](https://drive.google.com/open?id=1jb4BVG3cO_Z3lBzk0fxm86K_uGhlwv87) [Sunum-2](https://drive.google.com/open?id=1_9tUDajFjAxvmDC1ARgHmXkW7BQBeojr)| [Kaynak](python/week1/resources.md) | [Video](https://youtu.be/uPfu6OWnj4E)
 | 2. Hafta | [Python ile Programlamaya Giriş - II](http://www.kodstar.com/task/editor?courseId=5641&trackId=5366) | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | Hazırlanıyor | Hazırlanıyor |
 | 3. Hafta | [Python ile Programlamaya Giriş - II Bölüm Sonu](http://www.kodstar.com/task/editor?courseId=9507&trackId=5366) | Bölüm II egzersizleri | Hazırlanıyor | Hazırlanıyor |
-| 4. Hafta | [Python ile Programlamaya Giriş - III](http://www.kodstar.com/task/editor?courseId=2421&trackId=5366) | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor | Hazırlanıyor |
+| 4. Hafta | [Python ile Programlamaya Giriş - III](http://www.kodstar.com/task/editor?courseId=2421&trackId=5366) | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor 
 | 5. Hafta | Python ile Programlamaya Giriş - III Bölüm Sonu | Bölüm III egzersizleri | Hazırlanıyor | Hazırlanıyor |
 
 ##  Java ile programlama
