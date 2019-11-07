@@ -1,4 +1,4 @@
-# Kodstart Bootcamp Müfredatı
+# Kodstar Bootcamp Müfredatı
 
 Bu dökümanda Kodstar yazılım kampının müfredatı verilmektedir. Bu döküman aracılığı ile kampta kullanılan tüm kaynaklara ulaşabilirsiniz.
 
