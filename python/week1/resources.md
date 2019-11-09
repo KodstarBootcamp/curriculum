@@ -7,3 +7,5 @@ Bu dökümanda 1. hafta konularına hazırlanmak için kullanabileceğiniz kayna
   > https://caylakyazilimci.com/post/programlama-terimleri
 - PyCharm kurulumu
   > https://www.youtube.com/watch?v=CF8C5gOZaws
+  
+Yukarıda week1’e tıklayarak 1. hafta soru çözümlerine erişebilirsiniz.
