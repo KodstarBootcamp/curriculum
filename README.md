@@ -16,7 +16,7 @@ Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözere
 | 2. Hafta | [Python ile Programlamaya Giriş - II](http://www.kodstar.com/task/editor?courseId=5641&trackId=5366) | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | [Ders Sunumu](https://drive.google.com/file/d/1Nx0-PXzF5c46v83hlNk5lL2pm1Q1C5DV/view?usp=sharing) | [Kaynaklar](python/week2/resources.md) | [Ders Video](https://youtu.be/kxAqmzbfCKE)
 | 3. Hafta | [Python ile Programlamaya Giriş - II Bölüm Sonu](http://www.kodstar.com/task/editor?courseId=9507&trackId=5366) | Bölüm II egzersizleri | Sunum yok | [Kaynaklar](python/week3/resources.md) | Video kaydı yok
 | 4. Hafta | Python ile Programlamaya Giriş - III | Sayılar üzerindeki diğer işlemler, Fonksiyonlar, Döngüler - For döngüsü, Listelere giriş, Liste içinde liste, String’ler (Karakter dizileri) | Hazırlanıyor  | Hazırlanıyor 
-| 5. Hafta | Python ile Programlamaya Giriş - III Bölüm Sonu | Bölüm III egzersizleri | Hazırlanıyor | Hazırlanıyor |
+
 
 ##  Java ile programlama
 
