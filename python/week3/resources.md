@@ -6,3 +6,5 @@ Aşağıda 3. hafta çözülen örnek sorular verilmiştir. Çözümlere yukarid
 - Kullanıcın girdiği iki sayı arasındaki sayıların toplamını gösteren Python programını yazınız (Örneğin 3 ve 6 girdiğinizde 4 ve 5'i toplayacak).
 - Girilen sayının asal sayı mı değil mi olduğunu bulan Python programını yazınız.
 - Python ile sayı tahmin oyunu yapınız. 5 hakkınız olsun. 5 kerede bilirseniz, tebrikler yazdırınız.
+
+Cozum sunumu https://drive.google.com/open?id=11bKEEdlgP2yfPko5bESgtMs0NNa0YcSW
