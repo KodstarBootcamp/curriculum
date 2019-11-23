@@ -7,4 +7,4 @@ Aşağıda 3. hafta çözülen örnek sorular verilmiştir. Çözümlere yukarid
 - Girilen sayının asal sayı mı değil mi olduğunu bulan Python programını yazınız.
 - Python ile sayı tahmin oyunu yapınız. 5 hakkınız olsun. 5 kerede bilirseniz, tebrikler yazdırınız.
 
-Cozum sunumu https://drive.google.com/open?id=11bKEEdlgP2yfPko5bESgtMs0NNa0YcSW
+Çözüm sunumuna [buradan](https://drive.google.com/file/d/15k6Zdig8AI1U9nmtrg64rbCp2Bl-s4aZ/view?usp=sharing) ulaşabilirsiniz.
