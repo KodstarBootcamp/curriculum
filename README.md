@@ -2,9 +2,15 @@
 
 Bu dökümanda Kodstar yazılım kampının müfredatı verilmektedir. Bu döküman aracılığı ile kampta kullanılan tüm kaynaklara ulaşabilirsiniz.
 
+Eğitim materyalleri üretildikçe ve geri beslemeler alındıkça bu döküman güncellenecektir.
+
+##  Kodstar Bootcamp nedir?
+
 Bootcamp'in tanıtımına ait sunumuna [buradan](https://drive.google.com/file/d/17J4AfzEQdmU4YUAspsymqfwsUldKuXuK/view?usp=sharing) ulaşabilirsiniz.
 
-Eğitim materyalleri üretildikçe ve geri beslemeler alındıkça bu döküman güncellenecektir.
+##  Kodstar Bootcamp'de kullanılan araçlar
+
+Kodstar Bootcamp'de kullanılan araçlarla ilgili bilgilendirici video'ya [buradan](https://www.youtube.com/watch?v=-NdRVTDWkQo) ulaşabilirsiniz.
 
 ##  Python ile programlamaya giriş
 
