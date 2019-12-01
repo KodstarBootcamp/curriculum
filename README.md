@@ -6,7 +6,7 @@ Eğitim materyalleri üretildikçe ve geri beslemeler alındıkça bu döküman 
 
 ##  Kodstar Bootcamp nedir?
 
-Bootcamp'in tanıtımına ait sunumuna [buradan](https://drive.google.com/file/d/17J4AfzEQdmU4YUAspsymqfwsUldKuXuK/view?usp=sharing) ulaşabilirsiniz.
+Bootcamp'in tanıtımına ait sunumuna [buradan](https://drive.google.com/file/d/17J4AfzEQdmU4YUAspsymqfwsUldKuXuK/view?usp=sharing) , tanıtım videosuna da [buradan](https://youtu.be/s-TxiXmJmOQ) ulaşabilirsiniz.
 
 ##  Kodstar Bootcamp'de kullanılan araçlar
 
