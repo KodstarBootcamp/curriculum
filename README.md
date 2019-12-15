@@ -26,6 +26,8 @@ Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözere
 | 6. Hafta | Python ile Programlamaya Giriş<br><br>Tekrar ve Soru Çözüm | - | [Soru Çözüm Sunum](https://drive.google.com/file/d/1zhB2m-qE58nGgAhtg9fLYoLcRHIdXydr/view?usp=sharing) | - | [Soru Çözüm Video - 1](https://youtu.be/2Xp5JdKj4Bk )<br><br>[Soru Çözüm Video - 2](https://youtu.be/tV4-Lyy6IqU)
 | 7. Hafta | Python ile Programlamaya Giriş<br><br>Genel Tekrar | - | [Genel Tekrar Sunum](https://drive.google.com/open?id=1Wz6SVjDUUurX03nNh016Jey7pDWuTCYS) | - | [Genel Tekrar Video](https://youtu.be/ozOBFge6gWo)
 
+Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/playlist?list=PL-4HDqJ7NBMxYFRaGUtXRwdNLF2zdBAN7) ulaşabilirsiniz.
+
 ##  Java ile programlama
 
 Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanılan Java programlama dili ile daha üst seviyeye çıkarmanız hedeflenmektedir.
