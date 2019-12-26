@@ -8,9 +8,9 @@ while satir_sayaci <= satir_sayisi:
 print(string*sayi) kullanmadan çözüm:
     
 sayi = int(input("Sayi girin: "))
-satir_sayaci = 1
-for i in range(1,sayi):
-    birlesik_ifade = ""
-    for j in range (1, sayi)
-        birlesik_ifade += sayi
-    print(birlesik_ifade)
+
+for eleman in range(1, sayi + 1):
+    ifade = ""
+    for i in range(eleman):
+        ifade = ifade + str(eleman)
+    print(ifade)
