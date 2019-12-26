@@ -10,7 +10,7 @@ print(string*sayi) kullanmadan çözüm:
 sayi = int(input("Sayi girin: "))
 
 for eleman in range(1, sayi + 1):
-    ifade = ""
+    birlesik_ifade = ""
     for i in range(eleman):
-        ifade = ifade + str(eleman)
-    print(ifade)
+        birlesik_ifade += str(eleman)
+    print(birlesik_ifade)
