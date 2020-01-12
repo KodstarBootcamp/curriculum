@@ -39,3 +39,6 @@ Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanı
 | 3. Hafta | Nesne tabanlı programlama - II  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
 | 4. Hafta | Hata ele alma, Generics, Lambda  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
 | 5. Hafta | Java ekosistemi ve ileri konular | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
+
+### Kaynaklar
+Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](java/resources.md) ulaşabilirsiniz.
