@@ -32,13 +32,12 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 
 Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanılan Java programlama dili ile daha üst seviyeye çıkarmanız hedeflenmektedir.
 
-| Hafta     | Konular                     | Sunum                   | Kaynaklar     | Alıştırmalar | Ödev 
-| --------- |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|
-| 1. Hafta | Java programlama diline giriş  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
-| 2. Hafta | Nesne tabanlı programlama - I  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
-| 3. Hafta | Nesne tabanlı programlama - II  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
-| 4. Hafta | Hata ele alma, Generics, Lambda  | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
-| 5. Hafta | Java ekosistemi ve ileri konular | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
+Java ile programlama aşamasına ait tanıtım ve müfredata [buradan](https://drive.google.com/open?id=1nurOHafxOO4w0AjS9xNNIGjFzPQYGwq9) ulaşabilirsiniz.
+
+| Hafta     | Konular                     | Sunum                   | Kaynaklar     | Alıştırmalar | Ödev | Video |
+| --------- |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|:------------------:
+| 1. Hafta | Java programlama diline giriş | [Java dili tanıtım](https://drive.google.com/open?id=12zTGVuQtZK4-BFWx2OEamsT4uNN6hHyq)<br>[Java ile yazılım geliştirmeye giriş](https://drive.google.com/open?id=18_299d09UvTGmPg1gvAFY_J5iDFU5o0V)<br>[Java entegre geliştirme ortamları](https://drive.google.com/open?id=1A5wKSkpgm31pZfk71MDwhPZuICtC9mdc) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | [Ders Video-1](https://youtu.be/wE6Vb8xbTGE)<br>[Ders Video-2](https://youtu.be/Q8adGjxtQMA)
+| 2. Hafta | Java dili temelleri  | [Java dilinin temelleri](https://drive.google.com/open?id=1ABKaFu3DcT92ovJkTcpwHtFzYpu0CBVu)<br>[Java dilinde akış kontrolü](https://drive.google.com/open?id=1VXziPg8MTqlxnzhRx4AQQCD1mNBVI4Cf) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](java/resources.md) ulaşabilirsiniz.
