@@ -1,7 +1,7 @@
 ## 1. Hafta Alıştırmaları
 - **JDK Kurulumu**
     * En son versiyon JDK'yı indirip bilgisayarınıza yükleyin.
-    * HelloWorld.java dosyası oluşturu.
+    * HelloWorld.java dosyası oluşturun.
     * Kodunuzu derleyip çalıştırın.
     * HelloWorld.class dosyasından *jar* dosyası olşturun.
     * Programınızı *jar* dosyası üzerinden çalıştırın.
