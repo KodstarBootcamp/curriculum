@@ -34,6 +34,8 @@ Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanı
 
 Java ile programlama aşamasına ait tanıtım ve müfredata [buradan](https://drive.google.com/open?id=1nurOHafxOO4w0AjS9xNNIGjFzPQYGwq9) ulaşabilirsiniz.
 
+Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/playlist?list=PL-4HDqJ7NBMzl0HHdEoRPLr_N2xiEFY8a) ulaşabilirsiniz.
+
 | Hafta     | Konular                     | Sunum                   | Kaynaklar     | Alıştırmalar | Ödev | Video |
 | :---------: |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|:------------------:
 | 1. Hafta | Java programlama diline giriş | [Java dili tanıtım](https://drive.google.com/open?id=12zTGVuQtZK4-BFWx2OEamsT4uNN6hHyq)<br>[Java ile yazılım geliştirmeye giriş](https://drive.google.com/open?id=18_299d09UvTGmPg1gvAFY_J5iDFU5o0V)<br>[Java entegre geliştirme ortamları](https://drive.google.com/open?id=1A5wKSkpgm31pZfk71MDwhPZuICtC9mdc) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | [Ders Video-1](https://youtu.be/wE6Vb8xbTGE)<br>[Ders Video-2](https://youtu.be/0KVhpzeTQUY)
