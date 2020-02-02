@@ -17,7 +17,7 @@ Kodstar Bootcamp'de kullanılan araçlarla ilgili bilgilendirici video'ya [burad
 Kodstar.com online eğitim materyallerini kullanarak ve bol bol problem çözerek, Python'daki yapı taşlarına hakim olunması ve algoritmik düşünme kabiliyetinin yerleşmesi hedeflenmektedir. 
 
 | Hafta     | Kodstar Modulu                     | Konular                | Sunum                 | Kaynaklar             | Video
-| --------- |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|:------------------:
+| :---------: |:----------------------------------:| :---------------------:|:---------------------:|:---------------------:|:------------------:
 | 1. Hafta | [Python ile Programlamaya Giriş - I](http://www.kodstar.com/task/editor?courseId=2422&trackId=5366) | Kurulumlar, Veriler, Aritmetik işlem operatörleri, Değişken, Kullanıcıdan girdi alma ve veri tipleri arasında dönüşüm   | [Sunum-1](https://drive.google.com/file/d/1B1r8T_YErDURn2_odU6dgOpRKMIDp_Z8/view?usp=sharing)<br><br>[Sunum-2](https://drive.google.com/open?id=1_9tUDajFjAxvmDC1ARgHmXkW7BQBeojr)<br><br>[Soru Çözümü](https://drive.google.com/file/d/1DMPdisLsnYaNYJCJfRpqj2321FyRpoFO/view?usp=sharing)| [Kaynaklar](python/week1/resources.md) | [Ders Video](https://youtu.be/uPfu6OWnj4E)<br><br>[Soru Çözüm Video](https://youtu.be/8n_Oh4t9oS8)
 | 2. Hafta | [Python ile Programlamaya Giriş - II](http://www.kodstar.com/task/editor?courseId=5641&trackId=5366) | Boolean değer tipi ve karşılaştırma operatörleri, Koşullu çalışma, Mantıksal operatörler ve koşulların birleştrilmesi, Karmaşık koşullu ifadeler, Döngüler | [Ders Sunumu](https://drive.google.com/file/d/1Nx0-PXzF5c46v83hlNk5lL2pm1Q1C5DV/view?usp=sharing) | [Kaynaklar](python/week2/resources.md) | [Ders Video](https://youtu.be/kxAqmzbfCKE)
 | 3. Hafta | [Python ile Programlamaya Giriş - II Bölüm Sonu](http://www.kodstar.com/task/editor?courseId=9507&trackId=5366) | Bölüm II egzersizleri | [Soru Çözümleri](https://drive.google.com/file/d/15k6Zdig8AI1U9nmtrg64rbCp2Bl-s4aZ/view?usp=sharing) | [Kaynaklar](python/week3/resources.md) | Video kaydı yok
@@ -35,9 +35,10 @@ Bu aşamada programlama bilginizi kurumsal uygulamalarda yaygın olarak kullanı
 Java ile programlama aşamasına ait tanıtım ve müfredata [buradan](https://drive.google.com/open?id=1nurOHafxOO4w0AjS9xNNIGjFzPQYGwq9) ulaşabilirsiniz.
 
 | Hafta     | Konular                     | Sunum                   | Kaynaklar     | Alıştırmalar | Ödev | Video |
-| --------- |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|:------------------:
+| :---------: |:---------------------------:|:-----------------------:|:-------------:|:-------------:|:-------------:|:------------------:
 | 1. Hafta | Java programlama diline giriş | [Java dili tanıtım](https://drive.google.com/open?id=12zTGVuQtZK4-BFWx2OEamsT4uNN6hHyq)<br>[Java ile yazılım geliştirmeye giriş](https://drive.google.com/open?id=18_299d09UvTGmPg1gvAFY_J5iDFU5o0V)<br>[Java entegre geliştirme ortamları](https://drive.google.com/open?id=1A5wKSkpgm31pZfk71MDwhPZuICtC9mdc) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | [Ders Video-1](https://youtu.be/wE6Vb8xbTGE)<br>[Ders Video-2](https://youtu.be/0KVhpzeTQUY)
-| 2. Hafta | Java dili temelleri  | [Java dilinin temelleri](https://drive.google.com/open?id=1ABKaFu3DcT92ovJkTcpwHtFzYpu0CBVu)<br>[Java dilinde akış kontrolü](https://drive.google.com/open?id=1VXziPg8MTqlxnzhRx4AQQCD1mNBVI4Cf) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
+| 2. Hafta | Java dili temelleri  | [Java dilinin temelleri](https://drive.google.com/open?id=1ABKaFu3DcT92ovJkTcpwHtFzYpu0CBVu)<br>[Java dilinde akış kontrolü](https://drive.google.com/open?id=1VXziPg8MTqlxnzhRx4AQQCD1mNBVI4Cf) | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | [Ders Video-1](https://youtu.be/TU-o3rzZz0o)<br>[Ders Video-2](https://youtu.be/EVUhIIN4snA) |
+| 3. Hafta | Nesneye yönelik programlama-1  | [Java hata ayıklama (debugging)](https://drive.google.com/open?id=1kkz4MlsGTSfpeFgJizH-ho2GqP5x87r2)<br>Java sınıf ve nesnelerini kullanma | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](java/resources.md) ulaşabilirsiniz.
