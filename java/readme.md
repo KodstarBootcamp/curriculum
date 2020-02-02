@@ -13,4 +13,4 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 3. Hafta | Nesneye yönelik programlama-1  | [Java hata ayıklama (debugging)](https://drive.google.com/open?id=1kkz4MlsGTSfpeFgJizH-ho2GqP5x87r2)<br>Java sınıf ve nesnelerini kullanma | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor | Hazırlanıyor |
 
 ### Kaynaklar
-Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](java/resources.md) ulaşabilirsiniz.
+Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](resources.md) ulaşabilirsiniz.
