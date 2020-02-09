@@ -8,4 +8,4 @@
     * https://www.hackerrank.com/challenges/java-string-reverse/problem
     * https://www.hackerrank.com/challenges/java-anagrams/problem
     * https://www.hackerrank.com/challenges/30-class-vs-instance/problem
-    * https://www.hackerrank.com/challenges/java-output-formatting/problem [Yardimci link](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
+    * https://www.hackerrank.com/challenges/java-output-formatting/problem [**Yardımcı link**](https://docs.oracle.com/javase/tutorial/essential/io/formatting.html)
