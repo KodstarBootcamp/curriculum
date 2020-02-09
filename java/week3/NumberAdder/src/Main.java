@@ -9,7 +9,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-	    int upToTen = addNumbersUpTo(10);
+	int upToTen = addNumbersUpTo(10);
         System.out.println(upToTen);
         System.out.println(addNumbersUpTo(5));
     }
