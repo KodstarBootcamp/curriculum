@@ -20,7 +20,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-	    printPyramid(5);
+	printPyramid(5);
         printPyramid(6);
     }
 }
