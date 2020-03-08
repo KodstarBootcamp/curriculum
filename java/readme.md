@@ -14,7 +14,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 4. Hafta | Nesneye yönelik programlama-2  | [Karakter Dizileri (Strings)](https://drive.google.com/open?id=1qGGU982AfmCMW-3E8MRQhNIlnOKbwmxH) | [Alıştırmalar](week4/exercises.md) | - | [Ders Video-1](https://youtu.be/fOW9R0vK3cI)<br>[Ders Video-2](https://youtu.be/xH6qJVnHQT4) |
 | 5. Hafta | Nesneye yönelik programlama-3  | [Diziler (Arrays)](https://drive.google.com/open?id=1u7Wp3Rq3fdqW4OaJ9odFJG4cNdShgpwk) | [Ders örnekleri](https://github.com/KodstarBootcamp/curriculum/tree/master/java/week5)<br>[Alıştırmalar](week5/exercises.md) | - | [Ders Video-1](https://youtu.be/TkXnOf-mRlU)<br>[Ders Video-2](https://youtu.be/UC-ABvRWXZc) |
 | 6. Hafta | Soru Çözümü / Tekrar  | Soru Çözümü / Tekrar | [Alıştırmalar](week6/exercises.md) | - | [Soru Çözüm Video-1](https://youtu.be/XQjG1oF90p8)<br>[Soru Çözüm Video-2](https://youtu.be/eES58NSlx10) |
-| 7. Hafta | Nesneye yönelik programlama-4  | [Java ile sınıf geliştirme](https://drive.google.com/file/d/1etObhP56ZhfiVoR_LxNMGmP4pGbRHoud/view?usp=sharing) | Hazırlanıyor | Hazırlanıyor | [Soru Çözüm Video](https://youtu.be/6NK14-6ABSQ)<br>[Ders Video-1](https://youtu.be/JQ-My4fZBVw)<br>[Ders Video-2](https://youtu.be/FalxTBhcmmQ) |
+| 7. Hafta | Nesneye yönelik programlama-4  | [Java ile sınıf geliştirme](https://drive.google.com/file/d/1etObhP56ZhfiVoR_LxNMGmP4pGbRHoud/view?usp=sharing) | [Örnekler](week7/resources.md) | Hazırlanıyor | [Soru Çözüm Video](https://youtu.be/6NK14-6ABSQ)<br>[Ders Video-1](https://youtu.be/JQ-My4fZBVw)<br>[Ders Video-2](https://youtu.be/FalxTBhcmmQ) |
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](resources.md) ulaşabilirsiniz.
