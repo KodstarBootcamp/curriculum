@@ -16,6 +16,8 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 6. Hafta | Soru Çözümü / Tekrar  | Soru Çözümü / Tekrar | [Alıştırmalar](week6/exercises.md) | [Soru Çözüm Video-1](https://youtu.be/XQjG1oF90p8)<br>[Soru Çözüm Video-2](https://youtu.be/eES58NSlx10) |
 | 7. Hafta | Nesneye yönelik programlama-4  | [Java ile sınıf geliştirme](https://drive.google.com/file/d/1etObhP56ZhfiVoR_LxNMGmP4pGbRHoud/view?usp=sharing) | [Örnekler](week7/resources.md) | [Soru Çözüm Video](https://youtu.be/6NK14-6ABSQ)<br>[Ders Video-1](https://youtu.be/JQ-My4fZBVw)<br>[Ders Video-2](https://youtu.be/FalxTBhcmmQ) |
 | 8. Hafta | Nesneye yönelik programlama-5  | [Java ile sınıf geliştirme-2](https://drive.google.com/file/d/1cpJtWrdfLhYr4oIF97mkoH75bnrJ-pl_/view?usp=sharing) | [Ders Örneği](week8/PointCircleExample)<br>[Alıştırmalar](week8/exercises.md) | [Ders Video-1](https://youtu.be/-DzuO2T2YxY)<br>[Ders Video-2](https://youtu.be/JqfPMVA_W94) |
+| 9. Hafta | Tekrar  | [Java Programming Part-1](https://java-programming.mooc.fi/part-1)<br>[Java Programming Part-2](https://java-programming.mooc.fi/part-2)<br>[Java Programming Part-3](https://java-programming.mooc.fi/part-3) | [Alıştırmalar](week9/exercises.md) | [Ders Video-1](https://youtu.be/alceTJFMGf8)<br>[Ders Video-2](https://youtu.be/XUoXHI9O9fA) |
+
 
 
 ### Kaynaklar
