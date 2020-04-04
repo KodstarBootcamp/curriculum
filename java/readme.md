@@ -18,6 +18,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 8. Hafta | Nesneye yönelik programlama-5  | [Java ile sınıf geliştirme-2](https://drive.google.com/file/d/1cpJtWrdfLhYr4oIF97mkoH75bnrJ-pl_/view?usp=sharing) | [Ders Örneği](week8/PointCircleExample)<br>[Alıştırmalar](week8/exercises.md) | [Ders Video-1](https://youtu.be/-DzuO2T2YxY)<br>[Ders Video-2](https://youtu.be/JqfPMVA_W94) |
 | 9. Hafta | Tekrar<br>Java dili temelleri | [Java Programming Part-1](https://java-programming.mooc.fi/part-1)<br>[Java Programming Part-2](https://java-programming.mooc.fi/part-2)<br>[Java Programming Part-3](https://java-programming.mooc.fi/part-3) | [Alıştırmalar](week9/exercises.md) | [Ders Video-1](https://youtu.be/alceTJFMGf8)<br>[Ders Video-2](https://youtu.be/XUoXHI9O9fA) |
 | 10. Hafta | Tekrar<br>Java ile sınıf geliştirme | [Java Programming Part-4](https://java-programming.mooc.fi/part-4)<br>[Java Programming Part-5](https://java-programming.mooc.fi/part-5) | [Alıştırmalar](week10/exercises.md) | [Ders Video-1](https://youtu.be/8gER6g5ZWc4)<br>[Ders Video-2](https://youtu.be/Wux3VY8y7VU) |
+| 11. Hafta | Nesnelerin eşitliği<br>Nesneler içinde listeler<br>Kullanıcı arayüzü ile uygulama mantığının ayrılması<br>Birim Test | [Java Programming Part-5](https://java-programming.mooc.fi/part-5)<br>[Java Programming Part-6](https://java-programming.mooc.fi/part-6) | [Alıştırmalar](week11/exercises.md) | [Ders Video-1](https://youtu.be/ofAj5hs_Wsc)<br>[Ders Video-2](https://youtu.be/ZQn-Qp4poHM) |
 
 
 
