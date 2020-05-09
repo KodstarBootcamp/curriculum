@@ -23,8 +23,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 13. Hafta | Streams<br>Comparable/Comparator<br>StringBuilder<br>Regular Expressions<br>Enumerated Types<br>Iterator | [Java Programming Part-10](https://java-programming.mooc.fi/part-10)| [Alıştırmalar](week13/exercises.md) | [Ders Video-1](https://youtu.be/0LTLOHe6-fo)<br>[Ders Video-2](https://youtu.be/oGj_Tu13adA)<br>[Soru Çözümü Video-1](https://youtu.be/V-Z2O6SuUE4)<br>[Soru Çözümü Video-2](https://youtu.be/xQ0W-HWjpWI) |
 | 14. Hafta | Sınıf (Class) diyagramları<br>Paketler (Packages)<br>Exceptions<br>Dosya yazma | [Java Programming Part-11](https://java-programming.mooc.fi/part-11)| [Alıştırmalar](week14/exercises.md) | [Ders Video-1](https://youtu.be/HlQnNInUxQU)<br>[Ders Video-2](https://youtu.be/cYigr3FOC-k) |
 | 15. Hafta | Tip Parametreleri (Type parameters/Generics)<br>ArrayList ve HashMap<br>Rasgele sayı üretme<br>Çok boyutlu veri | [Java Programming Part-12](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/lDqA02oShmE)<br>[Ders Video-2](https://youtu.be/g8QF9ZEoOz0)<br>[Soru Çözümü Video-1](https://youtu.be/8Gj45y0Stso) |
-
-
+| 16. Hafta | JavaFX'e giriş | [Java Programming Part-13](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/4cdzeUEjmvo)<br>[Ders Video-2](https://youtu.be/RzoTf4vUmK8) |
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](resources.md) ulaşabilirsiniz.
