@@ -25,6 +25,9 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 15. Hafta | Tip Parametreleri (Type parameters/Generics)<br>ArrayList ve HashMap<br>Rasgele sayı üretme<br>Çok boyutlu veri | [Java Programming Part-12](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/lDqA02oShmE)<br>[Ders Video-2](https://youtu.be/g8QF9ZEoOz0)<br>[Soru Çözümü Video-1](https://youtu.be/8Gj45y0Stso) |
 | 16. Hafta | JavaFX'e giriş | [Java Programming Part-13](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/4cdzeUEjmvo)<br>[Ders Video-2](https://youtu.be/RzoTf4vUmK8) |
 | 17. Hafta | Grafiklerle veri gösterimi<br>Resim ve ses kullanımı<br>Örnek bir oyun geliştirilmesi | [Java Programming Part-14](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/R1SNw6lYjdQ)<br>[Ders Video-2](https://youtu.be/8Zq6oTrwAno) |
+| 18. Hafta | Veritabanlarına giriş ve SQL<br>Java ile veritabanı erişimi (JDBC) | [Veritabanları ve Java](https://drive.google.com/open?id=1GHQjpHaCs0htra7czCTrv8nq_ab0LQcO) | - | [Ders Video-1](https://youtu.be/bncciq1ExaU)<br>[Ders Video-2](https://youtu.be/-5EMJwMWNG4) |
+
+
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](resources.md) ulaşabilirsiniz.
