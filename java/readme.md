@@ -26,8 +26,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 16. Hafta | JavaFX'e giriş | [Java Programming Part-13](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/4cdzeUEjmvo)<br>[Ders Video-2](https://youtu.be/RzoTf4vUmK8) |
 | 17. Hafta | Grafiklerle veri gösterimi<br>Resim ve ses kullanımı<br>Örnek bir oyun geliştirilmesi | [Java Programming Part-14](https://github.com/rage/java-programming) | - | [Ders Video-1](https://youtu.be/R1SNw6lYjdQ)<br>[Ders Video-2](https://youtu.be/8Zq6oTrwAno) |
 | 18. Hafta | Veritabanlarına giriş ve SQL<br>Java ile veritabanı erişimi (JDBC) | [Veritabanları ve Java](https://drive.google.com/open?id=1GHQjpHaCs0htra7czCTrv8nq_ab0LQcO) | - | [Ders Video-1](https://youtu.be/bncciq1ExaU)<br>[Ders Video-2](https://youtu.be/-5EMJwMWNG4) |
-
-
+| 19. Hafta | Java inşa araçları: Maven ve Gradle<br>Nesneye yönelik programlama kavramları | [Java inşa araçları<br>Nesneye yönelik programlama](https://drive.google.com/file/d/1wDB4ulpyjuKN9J_58DKrerKwuOgBn9oX/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/ymOFzFP15Ho)<br>[Ders Video-2](https://youtu.be/rgfCsoQmsus) |
 
 ### Kaynaklar
 Java öğrenmek için faydalanabileceğiniz kaynaklara [buradan](resources.md) ulaşabilirsiniz.
