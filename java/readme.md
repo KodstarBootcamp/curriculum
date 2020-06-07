@@ -28,7 +28,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 18. Hafta | Veritabanlarına giriş ve SQL<br>Java ile veritabanı erişimi (JDBC) | [Veritabanları ve Java](https://drive.google.com/open?id=1GHQjpHaCs0htra7czCTrv8nq_ab0LQcO) | - | [Ders Video-1](https://youtu.be/bncciq1ExaU)<br>[Ders Video-2](https://youtu.be/-5EMJwMWNG4) |
 | 19. Hafta | Java inşa araçları: Maven ve Gradle<br>Nesneye yönelik programlama kavramları | [Java inşa araçları<br>Nesneye yönelik programlama](https://drive.google.com/file/d/1wDB4ulpyjuKN9J_58DKrerKwuOgBn9oX/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/ymOFzFP15Ho)<br>[Ders Video-2](https://youtu.be/rgfCsoQmsus) |
 | 20. Hafta<br>1. Ders | Birim test ve taklit araçları:<br>JUnit ve Mockito<br>Kod kapsama<br>Kodlama standartları | [Birim test ve taklit araçları<br>Kod kapsama, kodlama standartları](https://drive.google.com/file/d/1pNOpTPmSuQmd5vZDaI_FG9rcAehPq94J/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/657YkeGVa9A)<br>[Ders Video-2](https://youtu.be/S5zTGKvCuqo) |
-| 20. Hafta<br>2. Ders | Eş zamanlı çalışma<br>Ağ üzerinde haberleşme | [Eş zamanlı çalışma<br>Ağ üzerinde haberleşme](https://drive.google.com/file/d/1wBrWkn5D0KTPEmylQLktsaQSRNNLLR8r/view?usp=sharing) | - | [Video-1](https://youtu.be/U9mmHv0Xhs0)<br>[Video-2](https://youtu.be/ghUaLN3OgNg) |
+| 20. Hafta<br>2. Ders | Eş zamanlı çalışma<br>Ağ üzerinde haberleşme | [Eş zamanlı çalışma<br>Ağ üzerinde haberleşme](https://drive.google.com/file/d/1wBrWkn5D0KTPEmylQLktsaQSRNNLLR8r/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/U9mmHv0Xhs0)<br>[Ders Video-2](https://youtu.be/ghUaLN3OgNg) |
 
 
 
