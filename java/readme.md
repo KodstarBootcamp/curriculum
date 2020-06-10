@@ -29,7 +29,7 @@ Videoların tamamını içeren playlist'e [buradan](https://www.youtube.com/play
 | 19. Hafta | Java inşa araçları: Maven ve Gradle<br>Nesneye yönelik programlama kavramları | [Java inşa araçları<br>Nesneye yönelik programlama](https://drive.google.com/file/d/1wDB4ulpyjuKN9J_58DKrerKwuOgBn9oX/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/ymOFzFP15Ho)<br>[Ders Video-2](https://youtu.be/rgfCsoQmsus) |
 | 20. Hafta<br>1. Ders | Birim test ve taklit araçları:<br>JUnit ve Mockito<br>Kod kapsama<br>Kodlama standartları | [Birim test ve taklit araçları<br>Kod kapsama, kodlama standartları](https://drive.google.com/file/d/1pNOpTPmSuQmd5vZDaI_FG9rcAehPq94J/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/657YkeGVa9A)<br>[Ders Video-2](https://youtu.be/S5zTGKvCuqo) |
 | 20. Hafta<br>2. Ders | Eş zamanlı çalışma<br>Ağ üzerinde haberleşme | [Eş zamanlı çalışma<br>Ağ üzerinde haberleşme](https://drive.google.com/file/d/1wBrWkn5D0KTPEmylQLktsaQSRNNLLR8r/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/U9mmHv0Xhs0)<br>[Ders Video-2](https://youtu.be/ghUaLN3OgNg) |
-
+| 21. Hafta | Git ile versiyon kontrol | [Git ile versiyon kontrol](https://drive.google.com/file/d/1ImS7iJjVpaU_2M_PAHpKTYfSi8gjLSOv/view?usp=sharing) | - | [Ders Video-1](https://youtu.be/QfHh16rdrM4)<br>[Ders Video-2](https://youtu.be/r7QyaKWHsTc) |
 
 
 ### Kaynaklar
