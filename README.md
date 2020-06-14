@@ -18,4 +18,4 @@ Python ile programlaya giriş eğitimi detaylarına [buradan](python/readme.md) 
 
 ##  Java ile programlama
 
-Python ile programla eğitimi detaylarına [buradan](java/readme.md) ulaşabilirsiniz.
+Java ile programla eğitimi detaylarına [buradan](java/readme.md) ulaşabilirsiniz.
