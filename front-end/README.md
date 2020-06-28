@@ -22,4 +22,4 @@
 
 | Hafta       | Kurs                               |Bölüm                  | Video                 |
 | :---------: |:----------------------------------:|:---------------------:|:---------------------:|
-| 1. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | The Basics / Installations / Git Basics | [Toplantı video]()
+| 1. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | The Basics / Installations / Git Basics | [Toplantı video](https://youtu.be/tW-xWyf78X8)
