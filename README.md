@@ -26,7 +26,7 @@ Bu aşamada farklı başlıklar altında takım olarak açık eğitim içerikler
 
 * [Front-End Development](front-end/README.md)
 * Android Mobile Development
-* Back-End Development
+* [Back-End Development](full-stack/README.md)
 * Full-Stack Development
 * Test Automation
 
