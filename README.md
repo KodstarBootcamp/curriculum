@@ -24,7 +24,7 @@ Java ile programla eğitimi detaylarına [buradan](java/readme.md) ulaşabilirsi
 
 Bu aşamada farklı başlıklar altında takım olarak açık eğitim içeriklerinin takibi yapılacaktır. İlgili detaylara alt başlıklar üzerinden ulaşabilirsiniz.
 
-* [Front-End Development](front-end/readme.md)
+* [Front-End Development](front-end/README.md)
 * Android Mobile Development
 * Back-End Development
 * Full-Stack Development
