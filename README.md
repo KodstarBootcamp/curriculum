@@ -19,3 +19,15 @@ Python ile programlaya giriş eğitimi detaylarına [buradan](python/readme.md) 
 ##  Java ile programlama
 
 Java ile programla eğitimi detaylarına [buradan](java/readme.md) ulaşabilirsiniz.
+
+## Uzmanlaşma patikası
+
+Bu aşamada farklı başlıklar altında takım olarak açık eğitim içeriklerinin takibi yapılacaktır. İlgili detaylara alt başlıklar üzerinden ulaşabilirsiniz.
+
+* [Front-End Development](front-end/readme.md)
+* Android Mobile Development
+* Back-End Development
+* Full-Stack Development
+* Test Automation
+
+
