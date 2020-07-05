@@ -23,3 +23,4 @@
 | Hafta       | Bölüm  |Konu                                | Video                 |
 | :---------: |:-------:|:---------------------------------:|:---------------------:|
 | 1. Hafta    | 0       |[Fundamentals of Web apps](https://fullstackopen.com/en/part0) | -
+| 2. Hafta    | 1       |[Introduction to React](https://fullstackopen.com/en/part1) | [Toplantı video](https://youtu.be/ke3k1TF7Fes)
