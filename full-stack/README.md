@@ -8,7 +8,7 @@
 
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Mozilla Developer Network documents](https://developer.mozilla.org/en-US/)
-** [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+  * [Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 * [Rithm School Free Courses](https://www.rithmschool.com/courses)
 * [CS50's Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2018/)
 * [Kitap: Eloquent JavaScript](https://eloquentjavascript.net/)
