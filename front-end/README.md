@@ -24,3 +24,4 @@
 | :---------: |:----------------------------------:|:---------------------:|:---------------------:|
 | 1. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | The Basics / Installations / Git Basics | [Toplantı video](https://youtu.be/tW-xWyf78X8)
 | 2. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | The Front End / Javascript Basics - 1 | [Toplantı video](https://youtu.be/d5z7g3mnu_A)
+| 3. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | Javascript Basics - 2 | [Toplantı video](https://youtu.be/uWHNXlVmhx8)
