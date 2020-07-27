@@ -26,3 +26,4 @@
 | 2. Hafta    | 1       |[Introduction to React](https://fullstackopen.com/en/part1) | [Toplantı video](https://youtu.be/ke3k1TF7Fes)
 | 3. Hafta    | 2       |[Communicating with server](https://fullstackopen.com/en/part2) | [Toplantı video](https://youtu.be/Zyka0c_kxO0)
 | 4. Hafta    | 3       |[Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3) | [Toplantı video](https://youtu.be/RM6uzk2KZuw)
+| 5. Hafta    | 3       |[Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3) | [Toplantı video](https://youtu.be/u3uiBjQyeFo)
