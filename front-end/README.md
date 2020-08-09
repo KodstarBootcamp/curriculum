@@ -28,4 +28,5 @@
 | 4. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | Javascript Basics - 3 | [Toplantı video](https://youtu.be/6AdTeHiV2C4)
 | 5. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | Javascript Basics - 4 | [Toplantı video](https://youtu.be/4v61XwTg-NI)
 | 6. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | Javascript Basics - 5 | [Toplantı video](https://youtu.be/7dKMW_6hEBY)
+| 7. Hafta    | [Web Development 101](https://www.theodinproject.com/courses/web-development-101) | Javascript Basics - 6 | [Toplantı video](https://youtu.be/SUu40Qz5twE)
 
