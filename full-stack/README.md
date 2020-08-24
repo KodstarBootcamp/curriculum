@@ -30,3 +30,5 @@
 | 6. Hafta    | 3       |[Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3) | [Toplantı video](https://youtu.be/A9EGiCzvS20)
 | 7. Hafta    | 4       |[Testing Express servers, user administration](https://fullstackopen.com/en/part4) | [Toplantı video](https://youtu.be/7Sqpz3E90Zw)
 | 8. Hafta    | 4       |[Testing Express servers, user administration](https://fullstackopen.com/en/part4) | [Toplantı-1 video](https://youtu.be/tEdXACRVmzk)<br>[Toplantı-2.1 video](https://youtu.be/BRzo2pt4X5Y)<br>[Toplantı-2.2 video](https://youtu.be/m5klB3wk2Rg)
+| 9. Hafta    | 5       |[Testing React apps](https://fullstackopen.com/en/part5)| [Toplantı video](https://youtu.be/ap7DKiKqNV4)
+
