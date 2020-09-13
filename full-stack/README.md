@@ -33,4 +33,5 @@
 | 9. Hafta    | 5       |[Testing React apps](https://fullstackopen.com/en/part5)| [Toplantı video](https://youtu.be/ap7DKiKqNV4)
 | 10. Hafta   | 5       |[Testing React apps](https://fullstackopen.com/en/part5)| [Toplantı video](https://youtu.be/ncXai43xKRk)
 | 11. Hafta   | 5       |[Testing React apps](https://fullstackopen.com/en/part5)| [Toplantı video](https://youtu.be/yvubZxp5c90)
+| 12. Hafta   | 6       |[State management with Redux](https://fullstackopen.com/en/part6)| [Oturum-1 video](https://youtu.be/g_OCihqqghs)<br>[Oturum-2 video](https://youtu.be/x7wFS8-5dpU)
 
