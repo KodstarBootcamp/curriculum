@@ -40,3 +40,4 @@
 | 16. Hafta   | 8       |[GraphQL-server](https://fullstackopen.com/en/part8) | [Oturum-1 video](https://youtu.be/soCaDim4EFM)<br>[Oturum-2 video](https://youtu.be/CtqlLLE4LQg)
 | 17. Hafta   | 8       |[React and GraphQL](https://fullstackopen.com/en/part8) | [Toplantı video](https://youtu.be/T8J09zSMS64)
 | 18. Hafta   | 8       |[Database and user administration<br>Login and updating the cache<br>Fragments and subscriptions](https://fullstackopen.com/en/part8) | [Toplantı video](https://youtu.be/1MaQ3XHcLJw)
+| 19. Hafta   | 9       |[Background and introduction<br>First steps with Typescript](https://fullstackopen.com/en/part9) | [Oturum-1 video](https://youtu.be/VfxjkQUFqCA)<br>Oturum-2 kaydedilmedi
