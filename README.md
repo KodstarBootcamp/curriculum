@@ -30,4 +30,6 @@ Bu aşamada farklı başlıklar altında takım olarak açık eğitim içerikler
 * [Full-Stack Development](full-stack/README.md)
 * Test Automation
 
+## Diğer
 
+* [Soru-Cevap Oturumu 1](https://youtu.be/pbVVS8OBE0c)
