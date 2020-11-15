@@ -42,3 +42,4 @@
 | 18. Hafta   | 8       |[Database and user administration<br>Login and updating the cache<br>Fragments and subscriptions](https://fullstackopen.com/en/part8) | [Toplantı video](https://youtu.be/1MaQ3XHcLJw)
 | 19. Hafta   | 9       |[Background and introduction<br>First steps with Typescript](https://fullstackopen.com/en/part9) | [Oturum-1 video](https://youtu.be/VfxjkQUFqCA)<br>Oturum-2 kaydedilmedi
 | 20. Hafta   | 9       |[Typing the express app<br>React with types](https://fullstackopen.com/en/part9) | [Oturum-1 video](https://youtu.be/hFC7kQrJL70)<br>[Oturum-2 video](https://youtu.be/CXas8rdmWcs)
+| 21. Hafta   | 9<br>10 |[React with types](https://fullstackopen.com/en/part9)<br>[Introduction to React Native](https://fullstackopen.com/en/part10) | [Toplantı video](https://youtu.be/TncizFJG4s8)
