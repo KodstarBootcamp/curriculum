@@ -33,3 +33,4 @@ Bu aşamada farklı başlıklar altında takım olarak açık eğitim içerikler
 ## Diğer
 
 * [Soru-Cevap Oturumu 1](https://youtu.be/pbVVS8OBE0c)
+* [Soru-Cevap Oturumu 2](https://youtu.be/ncZBWqblWsw)
