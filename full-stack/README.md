@@ -43,3 +43,4 @@
 | 19. Hafta   | 9       |[Background and introduction<br>First steps with Typescript](https://fullstackopen.com/en/part9) | [Oturum-1 video](https://youtu.be/VfxjkQUFqCA)<br>Oturum-2 kaydedilmedi
 | 20. Hafta   | 9       |[Typing the express app<br>React with types](https://fullstackopen.com/en/part9) | [Oturum-1 video](https://youtu.be/hFC7kQrJL70)<br>[Oturum-2 video](https://youtu.be/CXas8rdmWcs)
 | 21. Hafta   | 9<br>10 |[React with types](https://fullstackopen.com/en/part9)<br>[Introduction to React Native](https://fullstackopen.com/en/part10) | [Toplantı video](https://youtu.be/TncizFJG4s8)
+| 22. Hafta   | 10      |[React Native basics](https://fullstackopen.com/en/part10) | [Toplantı video](https://youtu.be/Uu-tPNvr2a4)
