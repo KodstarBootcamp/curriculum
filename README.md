@@ -24,11 +24,18 @@ Java ile programla eğitimi detaylarına [buradan](java/readme.md) ulaşabilirsi
 
 Bu aşamada farklı başlıklar altında takım olarak açık eğitim içeriklerinin takibi yapılacaktır. İlgili detaylara alt başlıklar üzerinden ulaşabilirsiniz.
 
+* [Uzmanlaşma Patikaları Sunumu](https://drive.google.com/file/d/1PbwWSKN2wLUL0IufwXx4JKaWyhBpyGaZ/view?usp=sharing)
 * [Front-End Development](front-end/README.md)
 * Android Mobile Development
 * Back-End Development
 * [Full-Stack Development](full-stack/README.md)
 * Test Automation
+
+## Proje çalışması
+
+Bu aşamada yazılım proje yaşam döngüsü ve ekip çalışması hakkında bilgi ve tecrübe kazandırmak amacıyla takımlar halinde proje geliştirme çalışması yapılacaktır. İlgili detaylara alt başlıklar üzerinden ulaşabilirsiniz.
+
+* Bilgilendirme Toplantısı [Sunum](https://drive.google.com/file/d/16dBrWIved9W-kmPscxMtaoxA_DApodbd/view?usp=sharing) [Video](https://youtu.be/KmhZ_X-rJW4)
 
 ## Diğer
 
