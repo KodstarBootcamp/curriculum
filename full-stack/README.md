@@ -45,3 +45,4 @@
 | 21. Hafta   | 9<br>10 |[React with types](https://fullstackopen.com/en/part9)<br>[Introduction to React Native](https://fullstackopen.com/en/part10) | [Toplantı video](https://youtu.be/TncizFJG4s8)
 | 22. Hafta   | 10      |[React Native basics](https://fullstackopen.com/en/part10) | [Toplantı video](https://youtu.be/Uu-tPNvr2a4)
 | 23. Hafta   | 10      |[Communicating with server](https://fullstackopen.com/en/part10)<br>[Testing and extending our application](https://fullstackopen.com/en/part10) | [Oturum-1 video](https://youtu.be/IBbMGMLQcHE)<br>[Oturum-2 video](https://youtu.be/r3lt8B34GSc)
+|           |           |Egitim Sonu Degerlendirme | [Toplantı video](https://youtu.be/FFJOHKPuyto)
