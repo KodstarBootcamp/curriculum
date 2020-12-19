@@ -37,6 +37,7 @@ Bu aşamada farklı başlıklar altında takım olarak açık eğitim içerikler
 Bu aşamada yazılım proje yaşam döngüsü ve ekip çalışması hakkında bilgi ve tecrübe kazandırmak amacıyla takımlar halinde proje geliştirme çalışması yapılacaktır. İlgili detaylara alt başlıklar üzerinden ulaşabilirsiniz.
 
 * Bilgilendirme Toplantısı [Sunum](https://drive.google.com/file/d/16dBrWIved9W-kmPscxMtaoxA_DApodbd/view?usp=sharing) [Video](https://youtu.be/KmhZ_X-rJW4)
+* [Projede calismasinda takip edilen yontem](project/way-of-working.md)
 
 ## Diğer
 
