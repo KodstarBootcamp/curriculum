@@ -38,6 +38,7 @@ Bu aşamada yazılım proje yaşam döngüsü ve ekip çalışması hakkında bi
 
 * Bilgilendirme Toplantısı [Sunum](https://drive.google.com/file/d/16dBrWIved9W-kmPscxMtaoxA_DApodbd/view?usp=sharing) [Video](https://youtu.be/KmhZ_X-rJW4)
 * [Projede calismasinda takip edilen yontem](project/way-of-working.md)
+* Proje Başlangıç Toplantısı [Video](https://youtu.be/Js8THL-ICJY)
 
 ## Diğer
 
