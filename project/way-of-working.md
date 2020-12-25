@@ -12,7 +12,7 @@ The following outlines the general development steps in a sprint:
   4. Developer creates a feature branch to implement the user story. Branch name shall be meaningful. For example, for a user story to implement backend for creating an issue, it can be named as 'create-issue-backend'.
   4. The story gets implemented. The items described in 'Definition of Done; part should be kept in mind.
   5. When story is implemented, if other layer of that story was already merged to main, it is developer's responsibility to integrate her/his changes to already developed parts on main. If any problem is detected about a previously implemented part during integration, a bug issue can be created.
-  6. After story is implemented, a pull request should be created. While creating pull request, issue number should be mentioned in description (or it can be linked after creating pull request).
+  6. After story is implemented, a pull request should be created. While creating pull request, issue number should be mentioned in description (or it can be linked after creating pull request as described [here](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue)).
   7. After pull request is created, a code review should be done. Another team member should review the change requested by pull request. The comments created during review should be resolved before the pull request can be merged. 
   8. The pull request  will be merged to the main branch.
   9. Developer picks the next story from the sprint plan. 
