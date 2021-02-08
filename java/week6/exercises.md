@@ -1,4 +1,4 @@
-## 6. Hafta Alıştırmaları
+## Week 6 Exercises
 
 - **codingbat.com**
     * https://codingbat.com/java/Warmup-2
