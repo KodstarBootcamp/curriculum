@@ -1,13 +1,13 @@
-# Python ile programlamaya giriş 1. hafta kaynakları
+# Introduction to programming using Python Week 1 Resources
 
-Bu dökümanda 1. hafta konularına hazırlanmak için kullanabileceğiniz kaynaklar verilmiştir.
-- Bilgisayarlar nasıl çalışır 
+This document lists resources that can be used to prepare for week 1 subjects.
+- How computers work? 
   > https://www.khanacademy.org/computing/computer-science/how-computers-work2
-- Programlama terimleri
+- Programming terms
   > https://caylakyazilimci.com/post/programlama-terimleri
-- PyCharm kurulumu
+- PyCharm instalation
   > https://www.youtube.com/watch?v=CF8C5gOZaws
-- Phyton kitabı
+- Python book
   > https://belgeler.yazbel.com/python-istihza/
   
-Yukarıda week1’e tıklayarak 1. hafta soru çözümlerine erişebilirsiniz.
+You can access week 1 solutions by clicking week1 link above.
