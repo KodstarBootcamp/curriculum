@@ -50,7 +50,7 @@ Enter last number: 7
 
 6. User will enter numbers a and b. Given that a and b will be integers; print the numbers between a and b (including a and b) that have even squareroot value.
 
-&ensp;&ensp;&ensp;**Exmaple:**
+&ensp;&ensp;&ensp;**Example:**
 &ensp;&ensp;&ensp;<pre><code>Enter number a: 1
 Enter number b: 40
 4
