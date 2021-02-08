@@ -1,4 +1,4 @@
-## 2. Hafta Alıştırmaları
+## Week 2 Exercises
 
 - **Hackerrank**
     * https://www.hackerrank.com/challenges/30-data-types/problem
