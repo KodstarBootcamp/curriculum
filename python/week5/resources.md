@@ -1,3 +1,3 @@
-# Python ile programlamaya giriş 5. hafta kaynakları
+# Introduction to programming using Python Week 5 Resources
 
-5. hafta soru cozum dersinde islene orneklere week5 baglantisina tiklayarak ulasabilirsiniz.
+You can access week 5 solutions by clicking week5 link above.
