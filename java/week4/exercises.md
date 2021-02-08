@@ -1,4 +1,4 @@
-## 4. Hafta Alıştırmaları
+## Week 4 Exercises
 
 - **codingbat.com**
     * https://codingbat.com/java/String-2
