@@ -1,58 +1,58 @@
-# Python ile programlamaya giriş 4. hafta kaynakları
+# Introduction to programming using Python Week 4 Resources
 
-Aşağıda 4. hafta ara sınav soruları verilmistir. Cozumlere week4 baglantisina tiklayarak ulasabilirsiniz:
-1. Kullanıcıdan bir sayı girdisi alıp, sayi tek ise tek, çift is cift yazdirin (Özellikle bastırdığınız ifade örnektekilerle aynı karakterlerde olmalı, Türkçe karakter ya da boşluk içermemeli).
+Following are the questions of the midterm held on Week 4. You can access the solutions using the week4 link above.
+1. Get a number from the user and print 'odd' if number is odd or print 'even; if number is even.
 
-&ensp;&ensp;&ensp;**Örnek - 1:**
-&ensp;&ensp;&ensp;<pre><code>Bir sayi girin 42
-cift</pre></code>
-&ensp;&ensp;&ensp;**Örnek - 2:**
-&ensp;&ensp;&ensp;<pre><code>Bir sayi girin 13
-tek</pre></code>
+&ensp;&ensp;&ensp;**Example - 1:**
+&ensp;&ensp;&ensp;<pre><code>Enter a number 42
+even</pre></code>
+&ensp;&ensp;&ensp;**Example - 2:**
+&ensp;&ensp;&ensp;<pre><code>Enter a number 13
+odd</pre></code>
 
-2. Kullanıcıya doğum yılını sorup yaşını hesaplayın ve yaş aralığına göre aşağıda verilen çıktıları yazdırın.
+2. Get birth year from the user, calculate user's age and output following based on the age range of the user.
 
- - Yaşı 15 (15 dahil değil) den küçük ise “cocuk”
- - 15-40 (15 dahil - 40 haric) “genc”
- - 40-60 (40 dahil – 60 haric) “orta yas”
- - 60 ve 60'dan buyuk ise “ihtiyar”
+ - If age is less than 15 (including 15) “kid”
+ - 15-40 (including 15 - excluding 40) “young”
+ - 40-60 (including 40 – excluding 60) “middle age”
+ - 60 or older than 60 “old”
 
-&ensp;&ensp;&ensp;**Örnek:**
-&ensp;&ensp;&ensp;<pre><code>Dogum tarihinizi girin: 2010
-cocuk</pre></code>
+&ensp;&ensp;&ensp;**Example:**
+&ensp;&ensp;&ensp;<pre><code>Enter your birth year: 2010
+kid</pre></code>
 
-3. Kullanıcın girdiği iki sayı arasındaki tek sayıların toplamını yazdırın (girilen sayılar haric).
+3. Calculate the sum of odd numbers between two numbers that is got from user (excluding entered numbers).
 
-&ensp;&ensp;&ensp;**Örnek:** (3 + 5 = 8)
-&ensp;&ensp;&ensp;<pre><code>Baslangic sayisini girin: 2
-Bitis sayisini girin: 7
+&ensp;&ensp;&ensp;**Example:** (3 + 5 = 8)
+&ensp;&ensp;&ensp;<pre><code>Enter first number: 2
+Enter last number: 7
 8</pre></code>
 
-4. Kullanıcıdan 1 ile 9 arasında bir n rakamı alıp, n+nn+nnn degerini yazdırın.
+4. Get a number n between 1 and 9 from user and print the value of expression n+nn+nnn.
 
-&ensp;&ensp;&ensp;**Örnek - 1:** (1+11+111=123):
-&ensp;&ensp;&ensp;<pre><code>Sayi girin: 1
+&ensp;&ensp;&ensp;**Example - 1:** (1+11+111=123):
+&ensp;&ensp;&ensp;<pre><code>Enter a number: 1
 123</pre></code>
 
-&ensp;&ensp;&ensp;**Örnek - 2:** (3+33+333=369):
-&ensp;&ensp;&ensp;<pre><code>Sayi girin: 3
+&ensp;&ensp;&ensp;**Example - 2:** (3+33+333=369):
+&ensp;&ensp;&ensp;<pre><code>Enter a number: 3
 369</pre></code>
 
-5. Kullanıcıdan bir sayı alın ve bu sayı adedi kadar satır olacak seklide örnekte gösterilen şekilde deseni yazdırın (Rakamlar arasında ve satır sonunda boşluk olmamalı).
+5. Get a number from the user and print the patern shown in the example with number of rows equal to given number.
 
-&ensp;&ensp;&ensp;**Örnek:**
-&ensp;&ensp;&ensp;<pre><code>Sayi girin: 5
+&ensp;&ensp;&ensp;**Example:**
+&ensp;&ensp;&ensp;<pre><code>Enter a number: 5
 1
 22
 333
 4444
 55555</pre></code>
 
-6. a ve b değerleri kullanıcı tarafından girilecektir. a ve b tam sayı olmak üzere; a ve b arasındaki (a ve b dahil) sayılardan karekökü çift olan sayıları yazdırın.
+6. User will enter numbers a and b. Given that a and b will be integers; print the numbers between a and b (including a and b) that have even squareroot value.
 
-&ensp;&ensp;&ensp;**Örnek:**
-&ensp;&ensp;&ensp;<pre><code>a sayisini girin: 1
-b sayisini girin: 40
+&ensp;&ensp;&ensp;**Exmaple:**
+&ensp;&ensp;&ensp;<pre><code>Enter number a: 1
+Enter number b: 40
 4
 16
 36</pre></code>
