@@ -1,16 +1,16 @@
-## 1. Hafta Alıştırmaları
-- **JDK Kurulumu**
-    * En son versiyon JDK'yı indirip bilgisayarınıza yükleyin.
-    * HelloWorld.java dosyası oluşturun.
-    * Kodunuzu derleyip çalıştırın.
-    * HelloWorld.class dosyasından *jar* dosyası olşturun.
-    * Programınızı *jar* dosyası üzerinden çalıştırın.
-    * Java'nın resmi dökümanları üzerinden [```System.out```](https://docs.oracle.com/javase/7/docs/api/java/lang/System.html) ve [```Scanner```](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html) sınıflarını inceleyin.
+## Week 1 Exercises
+- **JDK Installation**
+    * Download and install latest version of JDK on your computer.
+    * Create a file named HelloWorld.java.
+    * Compile and execute your code.
+    * Create *jar* file from HelloWorld.class file.
+    * Run your applicaton using *jar* file.
+    * From official Java documentation, investigate [```System.out```](https://docs.oracle.com/javase/7/docs/api/java/lang/System.html) and [```Scanner```](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html) classes.
 
-- **Intellij IDEA Kurulumu**
-    * Intellij IDEA kurun.
-    * Derste gösterildiği gibi "Merhaba Dünya" projesi geliştirin.
-    * ide'nin özelliklerini deneyin.
+- **Intellij IDEA Installation**
+    * Install Intellij IDEA.
+    * As shown in lesson, create/implement "Hello World" project.
+    * Try features of IDE.
 
 - **Hackerrank**
     * https://www.hackerrank.com/challenges/30-hello-world/problem
