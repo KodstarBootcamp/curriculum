@@ -20,7 +20,7 @@
 
 ## Weekly Plan
 
-| Hafta       | Bölüm  |Konu                                | Video                 |
+| Week       | Part  |Subject                                | Video                 |
 | :---------: |:-------:|:---------------------------------:|:---------------------:|
 | Week 1    | 0       |[Fundamentals of Web apps](https://fullstackopen.com/en/part0) | -
 | Week 2    | 1       |[Introduction to React](https://fullstackopen.com/en/part1) | [Meeting video](https://youtu.be/ke3k1TF7Fes)
